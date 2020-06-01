@@ -1,4 +1,4 @@
-package simpleMail
+package go-notls-mail
 
 import (
 	"errors"
